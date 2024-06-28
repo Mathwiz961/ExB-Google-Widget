@@ -1,7 +1,7 @@
 # ExB-Google-Widget
-<b> A widget to add to Experience Builder Dev ed that opens Google maps (or street view) to a point clicked on the associated map.</b>
+<h2> A widget to add to Experience Builder Dev ed that opens Google maps (or street view) to a point clicked on the associated map.</h2>
 
-This widget is for use with Experience Builder Developers edition.  It was created in visual studio code using Javascript and Jimu-core. 
+This widget is for use with Experience Builder Developers edition.  It was created in visual studio code using Typescript and Jimu-core. 
 
 1.  Copy the entire Google folder to Your ExB root folder\client\your_extensions\widgets. 
 2.  If the client is running, stop the client (control C) and restart (npm start) and the widget should be available to add to an experience builder project.
