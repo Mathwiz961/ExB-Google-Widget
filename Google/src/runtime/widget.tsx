@@ -94,6 +94,9 @@ const Widget = (props: AllWidgetProps<any>) => {
             </label>
             <br/>This only works if a point with a streetview is selected.
           </div>
+          <div style={{ color: 'Navy', fontWeight: 'bold', fontStyle: 'italic', fontSize: '12px', padding: '20px' }}> 
+            Widget designed by Dr. Angela Schirck
+          </div> 
         </div>
       ) : (
         <div>
@@ -108,7 +111,10 @@ const Widget = (props: AllWidgetProps<any>) => {
           </div>
           <div style={{ color: 'Red', fontWeight: 'bold', fontSize: '18px', padding: '20px' }}> 
             Note: Google will not work if the selection tool is enabled.
-          </div>
+          </div>         
+          <div style={{ color: 'Navy', fontWeight: 'bold', fontStyle: 'italic', fontSize: '12px', padding: '20px' }}> 
+            Widget designed by Dr. Angela Schirck
+          </div> 
         </div>
       )}
     </div>
