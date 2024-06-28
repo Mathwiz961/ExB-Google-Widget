@@ -1,5 +1,5 @@
 # ExB-Google-Widget
-A widget to add to Experience Builder Dev ed that opens Google maps (or street view) to a point clicked on the associated map.
+<b> A widget to add to Experience Builder Dev ed that opens Google maps (or street view) to a point clicked on the associated map.</b>
 
 This widget is for use with Experience Builder Developers edition.  It was created in visual studio code using Javascript and Jimu-core. 
 
