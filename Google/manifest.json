@@ -1,0 +1,19 @@
+{
+  "name": "Google",
+  "label": "Google",
+  "type": "widget",
+  "version": "1.14.0",
+  "exbVersion": "1.14.0",
+  "author": "Dr. Angie Schirck",
+  "description": "This app takes lat and lon from a mapclick and opens google maps mapview (or street view) in a separate window.",
+  "copyright": "ALS Productions; 2024",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 350
+  }
+}
